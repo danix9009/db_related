@@ -1,4 +1,4 @@
-package com.che300.db.benchmark.sqlparser;
+package com.franky.db.benchmark.sqlparser;
 
 import com.alibaba.druid.DbType;
 import com.alibaba.druid.sql.SQLUtils;
@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * @Title
  * @Description
- * @Author hdan
+ * @Author hd
  * @Since 2021/11/17
  * @See https://www.cnblogs.com/etangyushan/p/5490183.html
  */
